@@ -1,1 +1,1 @@
-# Portfolio
+Welcome to my Resume Portfolio! This repository showcases my journey, skills, projects, and accomplishments in a structured and accessible way. It serves as both an interactive  reference for potential employers, collaborators, and recruiters.
